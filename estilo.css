@@ -1,0 +1,164 @@
+
+.header{
+    background-color: rgb(51, 49, 49);
+    height: 130px;
+    
+}
+
+.trocaqui-logo{
+    width: 10%;
+    position: absolute;
+    top:-20px;
+    margin-left: -17px;
+    
+}
+.login-menu{
+   left:822px;
+   top:-55px;
+   
+
+}
+
+.barra-pesquisa{
+    margin-left:195px;
+    bottom: -10px;
+    width: 600px;
+    border-radius: 1%;
+    border: 5px solid white;
+}
+
+
+
+.nav-area{
+    align-items: center; 
+    margin-right: -10px;
+    margin-top:-50px;
+    
+}
+
+.destaque{
+    text-align: center;
+    background-color: rgb(83, 79, 79);
+    margin-top: 10px;
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+
+.quero-trocar{
+  display:flex;
+  margin-top:-50px;
+  top: -10px;
+  
+}
+.menu_area nav a{
+    background-color:rgb(223, 190, 47);
+    color:white;
+}
+.active{
+    background-color:rgb(214, 159, 40) !important;
+}
+.menu_area nav a:hover{
+    background-color:rgb(221, 163, 39)
+}
+.card_area{
+    margin-top:20px;
+    max-width: 120%;
+}
+.menu_area1 , .menu_area2 , .menu_area3 , .menu_area4 , .menu_area5{
+    margin-left: 30px;
+    margin-right:10px;
+}
+.barra-pesquisa{
+    background-color: white;
+}
+.img-doacoes{
+    width: 100px;
+    margin-left: 500px;
+}
+.querodoar{
+    margin-left: 500px;
+}
+.parceiros-doacao{
+    width: 20%;
+    margin-left: 200px;
+}
+.parceiros-doacao1{
+width: 8%;
+margin-left: 100px;
+margin-bottom: 10px;
+}
+.parceiros-h2{
+    text-align: center;
+    margin-top:20px
+}
+.button-inicio{
+    margin-top: 10px;
+}
+
+
+.footer{
+    background-color: rgb(83, 79, 79);
+    text-align: center;
+    
+}
+
+/*produtos */
+.list-categoria-produtos {
+    display: flex;
+    list-style-type: none;
+    
+}
+.icone-produto{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.item-categoria-media{
+    border: 1px solid;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    line-height: 35px;
+    text-align:center;
+    margin-left:px;
+    background-color: rgb(223, 190, 47);
+    color:rgba(155, 43, 199, 0.925);
+}
+.item-categoria-media:hover{
+    background-color:white;
+}
+.menu-produtos{
+    margin-right: 60px;
+    color: rgb(223, 190, 47);
+}
+.low-menu{
+    list-style-type: none;
+    color:white;
+}
+.low-menu :hover{
+    background-color: black;
+    color: rgb(223, 190, 47);
+}
+.menu-usuario {
+    list-style-type: none;
+    text-align: center;
+    color:white;
+    
+}
+.menu-low{
+    background-color: rgb(83, 79, 79);
+    color:white;
+    border-radius: 1%;
+    margin-top: 5px;
+    border: 5px solid white;
+}
+.title-lowmenu{
+    font-size:20px;
+}
+
+.footer{
+    background-color:rgb(51, 49, 49);
+    color:white;
+    padding-top: 100px;
+}
